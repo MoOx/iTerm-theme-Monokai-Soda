@@ -10,7 +10,7 @@ A iTerm Monokai Soda theme, base on the [Monokai Soda color scheme](https://gith
 
 Import the `Monokai-Soda.itermcolors` file & load it from 
 
-![install iTerm Monokai Soda colors](color.png)
+![install iTerm Monokai Soda colors](colors.png)
 
 FYI, I also use this parameters
 
