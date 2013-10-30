@@ -33,3 +33,7 @@ To get the exact same prompt as you see on the screenshot, you need to install [
 ## License
 
 Released under [MIT Licence](http://moox.mit-license.org/)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/MoOx/iterm-theme-monokai-soda/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
